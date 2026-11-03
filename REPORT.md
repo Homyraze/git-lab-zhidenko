@@ -48,6 +48,10 @@ git config --global --list
 ### Задание 6. Pull
 README.md изменён на GitHub, выполнен `git pull`, изменения появились локально.
 
+![Задание 6](screenshots/6.png)
+
+![Задание 6 (GitHub)](screenshots/6.1.png)
+
 ## 3. Ответы на контрольные вопросы
 
 1. **Чем отличается git add от git commit?**
