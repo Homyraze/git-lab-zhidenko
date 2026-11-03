@@ -58,6 +58,13 @@ README.md изменён на GitHub, выполнен `git pull`, измене�
 
 ![Задание 6 (GitHub)](screenshots/6.1.png)
 
+### Задание 7*. Дополнительно
+В README добавлена ссылка на отчёт, включён GitHub Pages, поставлен тег версии v1.0.
+
+Сайт: https://homyraze.github.io/git-lab-zhidenko/
+
+![Задание 7](screenshots/7.png)
+
 ## 3. Ответы на контрольные вопросы
 
 1. **Чем отличается git add от git commit?**
